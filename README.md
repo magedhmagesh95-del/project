@@ -1,5 +1,5 @@
 Project Overview;
-The Chat Application UI is a front-end web project that simulates a basic chat interface. It allows users to type and send messages, which are displayed instantly on the chat screen. This project focuses on clean design, responsive layout, and user interaction using HTML, CSS, and JavaScript.
+The Chat Application UI is a front-end web project that simulates a basic chat interface. It allows users to type and send messages, which are displayed instantly on the chat screen. This project focuses on clean design, responsive layout, and user interaction using HTML, CSS, and JavaScript./
 Features;
 -Real-Time Message Display
 Users can type a message and instantly see it appear in the chat window.
